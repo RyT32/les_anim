@@ -1,4 +1,4 @@
-  <style>                                                                                                                       
+  <!-- <style>                                                                                                                       
     .block {                                                                                                                                                                                                                                                      
       display: flex;                                                                                                                                                                                      
       background:green;                                                                                                                                                                                      
@@ -18,7 +18,7 @@
       color: black;                                                                                                                                                                                     
       border-radius: 100%;                                                                                                                                                                                      
       background:yellow ;                                                                                                                                                                                     
-    }            
+    }             -->
     
    
 
@@ -26,5 +26,5 @@
 
   </style>
   <body>
-    <div class="block">Внимание!</div>
+    <div class="block" style="background:yellow">Внимание!</div>
   </body>
