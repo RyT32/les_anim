@@ -18,13 +18,12 @@
       color: black;                                                                                                                                                                                     
       border-radius: 100%;                                                                                                                                                                                      
       background:yellow ;                                                                                                                                                                                     
-    }             -->
+    }          </style>   -->
     
    
 
 
 
-  </style>
-  <body>
-    <div class="block" style="background:yellow">Внимание!</div>
-  </body>
+  
+
+    <div class="block" style="background:yellow;">Внимание!</div>
