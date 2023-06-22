@@ -26,4 +26,5 @@
 
   
 
-    <div class="block" style="background:yellow;">Внимание!</div>
+  
+  <div style="background:yellow;">Внимание!</div>
